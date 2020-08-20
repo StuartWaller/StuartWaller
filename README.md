@@ -1,8 +1,10 @@
 ## Hello, I am Stuart Waller
+
 ---
+
 I am currently pursuing my bachelor's degree at Vanderbilt University with a double major in cognitive studies and mathematics.
 
-Find out more about me and feel free to connect with me here:
+Feel free to connect with me: 
 
 ---
 

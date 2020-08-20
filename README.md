@@ -2,7 +2,7 @@
 
 ---
 
-I am currently pursuing my bachelor's degree at Vanderbilt University with a double major in cognitive studies and mathematics.
+I am currently pursuing my bachelor's degree at **Vanderbilt University** with a double major in cognitive studies and mathematics.
 
 Feel free to connect with me: 
 

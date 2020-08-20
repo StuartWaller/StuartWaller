@@ -1,6 +1,6 @@
 ## Hello, I am Stuart Waller
 ---
-I am currently pursuing my bachelor's degree at Vanderbilt University with a double major in cognitive studies and mathematics. I am a machine learning enthusiast who is always open to collaborating on projects.
+I am currently pursuing my bachelor's degree at Vanderbilt University with a double major in cognitive studies and mathematics.
 
 Find out more about me and feel free to connect with me here:
 

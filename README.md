@@ -13,5 +13,5 @@ Feel free to connect with me:
 <details>
   <summary>My Github Stats</summary>
 
-  <img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stuartwaller&show_icons=true&hide_border=true" />
+  <img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Stuart Waller&show_icons=true&hide_border=true" />
 </details>

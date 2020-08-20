@@ -2,7 +2,7 @@
 
 ---
 
-I am a machine learning enthusiast studying cognitive studies and mathematics at Vanderbilt University.
+I am a **machine learning enthusiast** studying cognitive studies and mathematics at Vanderbilt University.
 
 Feel free to connect with me: 
 

@@ -1,4 +1,4 @@
-## Hello, I am Stuart Waller
+### Hello, I am Stuart Waller
 
 ---
 I am a **machine learning enthusiast** studying cognitive studies and mathematics at Vanderbilt University.

@@ -1,6 +1,7 @@
 ### Hello, I am Stuart Waller
 
-👨🏽‍💻 **Machine Learning Practitioner** | 
+👨🏽‍💻 **Machine Learning Practitioner**  
+
 📕 Majoring in Cognitive Studies and Mathematics at Vanderbilt University 
 
 👯 Always looking to collaborate | Feel free to connect with me: 
